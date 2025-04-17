@@ -1,9 +1,3 @@
-Perfect — thanks for pointing that out. Since your code expects the MNIST data in a specific CSV format located at `data/mnist_train.csv`, you'll want to make that super clear in the README **and** provide a method for downloading or preparing it.
-
-Here’s a fully updated and improved version of your `README.md`, now explicitly addressing that `data/mnist_train.csv` issue and helping users get set up properly.
-
----
-
 # 🧠 PCA on MNIST Dataset
 
 This project demonstrates **Principal Component Analysis (PCA)** from scratch using **Singular Value Decomposition (SVD)** on the MNIST dataset of handwritten digits. It focuses on dimensionality reduction, reconstruction, and visualization.
